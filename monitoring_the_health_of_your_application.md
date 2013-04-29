@@ -10,6 +10,6 @@
     - # items added to cart
     - # items removed
     - # checkouts
-  - If it''s important to the biz, measure it
+  - If it's important to the biz, measure it
   - Performance is biz value
 
